@@ -1,2 +1,2 @@
 # todo_js
-aaa
+jsのみでtodoアプリ作成
